@@ -1,6 +1,6 @@
 linux　OPEN函数返回值和错误解析
 
-[<img width="40" height="40" src="../../_resources/d223795f6df34b69b3e3ebdcaa0157cb.jpg"/>](https://www.jianshu.com/u/f5f8bb96c487)
+[<img width="40" height="40" src=":/d223795f6df34b69b3e3ebdcaa0157cb"/>](https://www.jianshu.com/u/f5f8bb96c487)
 
 2016.06.27 15:01:46字數 1,308閱讀 10,573
 
@@ -190,7 +190,7 @@ Mesg:Device or resource busy
 
 还没有人赞赏，支持一下
 
-[<img width="46" height="46" src="../../_resources/d223795f6df34b69b3e3ebdcaa0157cb.jpg"/>](https://www.jianshu.com/u/f5f8bb96c487)
+[<img width="46" height="46" src=":/d223795f6df34b69b3e3ebdcaa0157cb"/>](https://www.jianshu.com/u/f5f8bb96c487)
 
 總資產1 (約0.05元)共写了4007字获得2个赞共2个粉丝
 

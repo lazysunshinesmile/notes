@@ -10,7 +10,7 @@ sed 命令，Linux sed 命令详解：功能强大的流式文本编辑器 - Lin
 
 ## sed的选项、命令、替换标记
 
-**命令格式**
+### 命令格式
 
 ```
 sed [options] 'command' file(s)
